@@ -1,7 +1,7 @@
 # Sinatra Forms Lab
 
 ## Overview
-
+d
 In this lab, you'll practice building forms in Sinatra by creating a basketball
 team sign-up sheet. Your application will have a basic HTML form, and will
 display the data from the form after it has been submitted by the user.
